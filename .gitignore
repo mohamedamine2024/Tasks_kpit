@@ -1,0 +1,9 @@
+# virtual environment
+TASK1_KPIT/
+
+
+
+
+# python
+pyvenv/
+__pycache__/
